@@ -1,0 +1,108 @@
+.flag1{
+    width:0; 
+     height:70px; 
+     border-right:50px solid rgb(230, 82, 230);
+     border-left:50px solid rgb(230, 82, 230);
+     border-bottom:50px solid transparent;
+     rotate: 90deg;
+     margin-left: 1150px;
+     overflow: hidden;
+}
+.flag2{
+    width:0; 
+     height:70px; 
+     border-right:50px solid rgb(230, 82, 230);
+     border-left:50px solid rgb(230, 82, 230);
+     border-bottom:50px solid transparent;
+     rotate: -90deg;
+     margin-right: 450px;
+     overflow: hidden;
+}
+.flag3{
+    width:0; 
+     height:70px; 
+     border-right:50px solid rgb(230, 82, 230);
+     border-left:50px solid rgb(230, 82, 230);
+     border-bottom:50px solid transparent;
+     rotate: -90deg;
+     margin-right: 500px;
+     overflow: hidden;
+}
+.head{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+h1{
+    text-align: center;
+    color: white;
+    background-color:rgb(230, 82, 230);
+    border-radius: 5px;
+padding: 10px; 
+font-size: medium;
+}
+pre{
+    text-align: center;
+}
+hr{
+    display: block;
+    height: 1px;
+    border: none;
+    color: rgb(230, 82, 230);
+    border-top: 3px solid rgb(230, 82, 230);
+    margin: 1em 0;
+    padding: 0;
+    width: 30%;
+    margin-left: auto;
+    margin-right: auto;
+}
+.main{
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+h2{
+    text-align: center;
+}
+p{
+ text-align: center;
+    color: white;
+    background-color:rgb(230, 82, 230);
+    border-radius: 5px;
+padding: 10px; 
+font: bolder;
+font-weight: 800;
+}
+.first{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+img{
+    height: 100px;
+}
+.position{
+    font: 100;
+    color: rgb(230, 82, 230);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    max-width: 150px;
+}
+.main_2 {
+    display: flex;
+    align-items:center;
+    flex-direction: column;
+}
+.main_3{
+    display: flex;
+    align-items:center;
+    flex-direction: column;   
+}
+.develop{
+    display: flex;
+    align-items: start;
+    flex-direction: row;
+    margin-top: 40px;  
+}
+
